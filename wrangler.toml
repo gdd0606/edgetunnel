@@ -6,3 +6,4 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"
 id = "e4a7c2f8eae54766b3592bfc64ba3a8d"
+# trigger redeploy
